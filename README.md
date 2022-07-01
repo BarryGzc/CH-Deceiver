@@ -5,15 +5,15 @@ A multimodal adversarial attacker for Chinese-NLP models
 
 **Attack performance:**
 ```
-run ./run_attack.sh
+sh ./run_attack.sh
 ```
 **Transferability:**
 ```
-run ./run_transfer.sh
+sh ./run_transfer.sh
 ```
 **Robustness:**
 ```
-run ./run_robust.sh
+sh ./run_robust.sh
 ```
 
 ## Files
